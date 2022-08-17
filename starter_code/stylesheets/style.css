@@ -1,7 +1,210 @@
 /*
-background-grey: #F4F3F4;
+
 button-purple: #192592
 main-titles dark-grey: #2C303F;
 paragraph grey: #5b5e6d;
-nav grey: #5b5e6d;
 */
+
+nav {
+    color: #5b5e6d;
+}
+
+.slack-logo {
+    width: 27vw;
+    height: 5vh;
+    padding-left: 20px;
+}
+
+.hamburger-icon {
+    width: 4vw;
+    height: 1vh;
+    padding-top: 20px;
+}
+
+.logo-and-hamburger {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    background-color: white;
+    width:95%;
+    top: 0;
+}
+
+.ul-nav {
+    display: none;
+}
+
+.header-title {
+    width: 15vh;
+    height: 6vh;
+    padding-top: 60px;
+}
+
+.header-p {
+    color: #5b5e6d;
+    width: 68vw;
+    margin-left: 20px;
+}
+
+.header {
+    padding-left: 25px;
+    text-align: center;
+}
+
+.sign-in {
+    text-transform: none;
+}
+
+.using-slack {
+    color: #5b5e6d;
+    text-align: center;
+    padding-right: 130px;
+}
+
+.home-talking-img {
+    width: 60vw;
+}
+
+.get-started {
+    background-color: #192592;
+    color: white;
+    width: 270px;
+    height: 45px;
+}
+
+.email-address {
+    color: #5b5e6d;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #5b5e6d;
+    width: 250px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-left: 45px;
+}
+
+main {
+    background-color: #F4F3F4;
+    text-align: center;
+
+}
+
+.main-h2 {
+    padding-top: 40px;
+}
+
+.main-p {
+    width: 90vw;
+}
+
+.discover-why {
+    background-color: white;
+    width: 60vw;
+    height: 3.5vh;
+    color: #192592;
+    font-weight: bold;
+}
+
+.partner-images {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.airbnb {
+    width: 130px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+
+.capital-one {
+    width: 130px;
+    padding-bottom: 50px;
+}
+
+.harvard {
+    width: 130px;
+    padding-bottom: 50px;
+}
+
+.la-times {
+    width: 200px;
+    padding-bottom: 50px;
+}
+
+.oracle {
+    width: 130px;
+    padding-bottom: 50px;
+}
+
+.ticketmaster {
+    width: 130px;
+    padding-bottom: 50px;
+}
+
+.try-it-div {
+    text-align: center;
+
+}
+
+.email-address-2 {
+    color: #5b5e6d;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #5b5e6d;
+    width: 250px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-left: 61px;
+}
+
+.try-it-p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.iso-slack-logo {
+    width: 30vw;
+    padding-right: 25px;
+}
+
+.final-lists {
+    color: #5b5e6d;
+}
+
+.list-titles {
+    font-weight: bold;
+}
+
+.footer-div {
+    background-color: #F4F3F4;
+}
+
+.each-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.last-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.us-flag-img {
+    width: 4vw;
+    display: flex;
+    justify-content: center;
+}
+
+.fab {
+    color: #5b5e6d;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
